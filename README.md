@@ -1,4 +1,7 @@
 # learning_ros
+
+# FCR Add
+
 This repository accompanies the text "A Systematic Approach to Learning Robot Programming with ROS".  This version has been updated for ROS Kinetic.
 
 Code examples reside in folders corresponding to chapters.
